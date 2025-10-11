@@ -23,11 +23,3 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-      <img src="" height="150" alt="languages graph"  />
-</p>
-
----
