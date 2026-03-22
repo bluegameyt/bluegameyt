@@ -7,7 +7,6 @@
 
 ## 🚀 About Me
 
-- 🎓 Student at [Lycée Maryse Bastié](https://www.lycee-maryse-bastie.fr/)
 - 💻 Love developing and playing video games
 - 🌍 Interested in Javascript, CSS, HTML
 - 🛠️ Working with VSCode
