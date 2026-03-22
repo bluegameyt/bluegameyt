@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Luca 👋</h1>
+<h1 align="center">Hi👋</h1>
 <p align="center">
   <b>French | Passionate Developer and Gamer</b>
 </p>
